@@ -1,0 +1,33 @@
+_repo: Ghetto-Comedies_28982
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zangwill, Israel
+    alias: Zangwill, I. (Israel)
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '1987'
+    url: http://www.gutenberg.org/2009/agents/1987
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Zangwill
+description: ''
+gutenberg_issued: '2009-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Fiction'
+- !lcsh 'Jewish fiction'
+- !lcc 'PR'
+tableOfContents: The model of sorrows -- Anglicization -- The Jewish trinity -- The
+  Sabbath question in Sudminster -- The red mark -- The bearer of burdens -- The luftmensch
+  -- The tug of love -- The Yiddish 'Hamlet' -- The converts -- Holy wedlock -- Elijah's
+  goblet -- The hirelings -- Samooborona.
+title: Ghetto Comedies
+url: http://www.gutenberg.org/ebooks/28982
